@@ -9,5 +9,5 @@ It also lets you choose if you want to install `docker-compose`, and create a Do
 ***
 You can either [download](https://github.com/Zerodya/dockeraise/blob/main/dockeraise.sh) the script and run it manually, or use the following command:
 ```
-wget -qO- https://raw.githubusercontent.com/Zerodya/dockeraise/main/dockeraise.sh | bash
+wget -qO- https://raw.githubusercontent.com/thieryl/dockeraise/main/dockeraise.sh | bash
 ```
